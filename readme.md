@@ -9,9 +9,6 @@
 </p>
 <br />
 
-See my profile at [ghuser.io/abranhe][abranhe]
+See my profile at [ghuser.io/abrahamcalf](https://github.com/abrahamcalf)
 
-[![Screenshot][screenshot]][abranhe]
-
-[abranhe]: https://ghuser.io/abranhe
-[screenshot]: https://cdn.abranhe.com/projects/ghuser-settings/screenshot.png
+<!-- https://cdn.abranhe.com/projects/ghuser-settings/screenshot.png -->
